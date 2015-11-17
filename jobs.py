@@ -20,4 +20,7 @@ for item in feed["items"]:
         if item["title"][1:4] not in excluded:
             excluded.append(item["title"][1:4])
 
-print excluded
+print "\n"
+print "Excluded countries: %s" % excluded
+print "If interested in any of those openings email Pablo.Iranzo@gmail.com for more information"
+
