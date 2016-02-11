@@ -23,4 +23,3 @@ for item in feed["items"]:
 print "\n"
 print "Excluded countries: %s" % excluded
 print "If interested in any of those openings email Pablo.Iranzo@gmail.com for more information"
-
